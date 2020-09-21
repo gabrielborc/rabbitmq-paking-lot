@@ -1,11 +1,11 @@
-#Parking Lot
+# Parking Lot
 
-##Requisistos
+## Requisistos
 
 - Java 11
 - Docker 
 
-##Executar
+## Executar
 
 Primeiramente rode o comando no seu terminal para subir o RabbitMQ: 
 
